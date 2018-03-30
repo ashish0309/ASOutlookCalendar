@@ -12,7 +12,5 @@ Demo app has static data provided.
 
 For dynamic data, init ASAgendaDataSource class with dictionary with the required data, and then pass created ASAgendaDataSource instance to ASAgendaView class instance.
 
-Test cases are added for important scenarios.
-
 
 
