@@ -10,11 +10,11 @@
 
 @implementation UIColor (AS)
 + (UIColor *)as_darkGrayColor {
-    return [UIColor colorWithRed:0.694 green:0.690 blue:0.694 alpha:1.00];
+    return [UIColor colorWithRed:0.60 green:0.60 blue:0.60 alpha:1.00];
 }
 
 + (UIColor *)as_mediumLightGrayColor {
-    return [UIColor colorWithRed:0.796 green:0.796 blue:0.796 alpha:1.00];
+    return [UIColor colorWithRed:0.7 green:0.7 blue:0.7 alpha:1.00];
 }
 
 + (UIColor *)as_lightGrayColor {
